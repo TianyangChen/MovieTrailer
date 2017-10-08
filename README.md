@@ -1,5 +1,5 @@
-# Project1 - Movie Trailers
-Tianyang Chen
+# Movie Trailers
+Udacity - Full Stack Nanodegree - Project 2
 
 ## 1 Description
 
