@@ -1,5 +1,5 @@
 # Movie Trailers
-Udacity - Full Stack Nanodegree - Project 2
+Udacity - Full Stack Nanodegree - Project 1
 
 ## 1 Description
 
